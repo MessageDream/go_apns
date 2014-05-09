@@ -1,7 +1,7 @@
 go_apns
 =======
 
-Go library for Apple Push Notification Service (APNs)
+A go package for Apple Push Notification Service (APNs)
 
 ## Install go_apns
 
